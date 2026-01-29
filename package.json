@@ -17,5 +17,13 @@
     "express": "^5.2.1",
     "mongoose": "^9.1.5",
     "nodemon": "^3.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEWGG/Back_End-assignment-4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YEWGG/Back_End-assignment-4/issues"
+  },
+  "homepage": "https://github.com/YEWGG/Back_End-assignment-4#readme"
 }
